@@ -1,11 +1,5 @@
-# capdev
+
 
 # What is Capacity Development? 
 
-# Networks
-
-# Community of Practice
-
-# Reflexivity
-
-# Leadership
+On this site we'll explore what Capacity Development is. 
